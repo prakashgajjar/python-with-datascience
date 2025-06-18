@@ -1,0 +1,7 @@
+task-1 (date : 18-6 to 19-6)
+------
+
+-complete basic python 
+-practice it 
+-start numpy
+-practice numpy
