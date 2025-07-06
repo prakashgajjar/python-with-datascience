@@ -1,0 +1,8 @@
+🐣 1. Understand the Core Concepts
+Concept	Explanation
+🔢 Vector	A list of numbers from AI models (embeddings)
+📦 Upsert	Uploading data (vector + ID + metadata)
+🔍 Query	Finding similar vectors
+🧠 Top-K Search	Find top 3, 5, or 10 most similar
+🏷️ Metadata	Info like name, category, etc.
+⚡ Index	Structure that allows fast vector search

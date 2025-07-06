@@ -1,0 +1,38 @@
+🌱 1. Basics (Introduction)
+Topic	What You'll Learn
+✅ What is Redis?	History, use cases, key-value memory store
+✅ Install Redis	Locally (Windows/Linux/macOS), or on Docker
+✅ Redis CLI	SET, GET, DEL, EXISTS, KEYS
+✅ Python Client	Using redis-py (PIP: pip install redis)
+
+🔑 2. Core Data Types
+Redis Type	Use Case Example
+🔤 String	"user:123" => "Prakash"
+📋 List	Queues: LPUSH, RPUSH, LPOP
+🧾 Hash	Store object-like data: HSET, HGETALL
+🎯 Set	Unique values: tags, followers
+🏆 Sorted Set (ZSet)	Leaderboards, ranked items
+🧠 Bitmaps	Memory-efficient tracking
+📈 HyperLogLog	Approx. unique count of big data
+
+⏱️ 3. Expiry & TTL
+Command	Description
+EXPIRE key seconds	Auto-remove after time
+TTL key	Time left before expire
+Use in:	Caching, session data, temporary login OTPs
+
+💌 4. Pub/Sub (Publish/Subscribe)
+Real-time messaging system built into Redis
+
+PUBLISH channel message
+
+SUBSCRIBE channel
+
+Used for: Chat apps, notification systems
+
+🎯 5. Pattern Matching & Key Management
+Command	Use
+KEYS *	Get all keys (not in prod!)
+SCAN	Safe alternative for large data
+DEL, UNLINK	Delete keys
+FLUSHDB, FLUSHALL	Clear Redis memory (careful baby 😅)

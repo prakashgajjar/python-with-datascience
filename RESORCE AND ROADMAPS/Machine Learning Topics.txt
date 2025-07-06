@@ -1,0 +1,23 @@
+🤖 2. Machine Learning Topics
+Level	Topics
+💚 Beginner	
+• Supervised vs Unsupervised learning	
+• Regression (Linear, Polynomial)	
+• Classification (Logistic, KNN)	
+• Clustering (K-Means, DBSCAN)	
+• Model evaluation: Accuracy, Precision, Recall, F1	
+• Train-Test Split, Cross-Validation	
+💛 Intermediate	
+• Decision Trees	
+• Random Forests	
+• Naive Bayes	
+• SVM (Support Vector Machines)	
+• Dimensionality Reduction (PCA, t-SNE)	
+• Feature Engineering & Selection	
+❤️ Advanced	
+• Ensemble Learning (Bagging, Boosting)	
+• XGBoost, LightGBM, CatBoost	
+• Time Series Forecasting (ARIMA, LSTM later)	
+• Anomaly Detection	
+• Hyperparameter tuning (GridSearch, RandomSearch)	
+• Pipeline building (with scikit-learn)

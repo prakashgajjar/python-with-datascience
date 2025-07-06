@@ -1,0 +1,25 @@
+🧠 3. Deep Learning Topics
+Level	Topics
+🌸 Beginner	
+• What is a Neural Network	
+• Activation Functions (ReLU, Sigmoid, Tanh)	
+• Loss Functions (MSE, CrossEntropy)	
+• Optimizers (SGD, Adam)	
+• Backpropagation	
+• Using TensorFlow or PyTorch	
+🌹 Intermediate	
+• CNNs (Convolutional Neural Networks for image)	
+• Pooling, Padding, Filters	
+• RNNs (Recurrent Neural Networks for time/text)	
+• LSTM, GRU	
+• Overfitting vs Underfitting	
+• Regularization (Dropout, L2)	
+🌷 Advanced	
+• Transfer Learning (ResNet, VGG, Inception)	
+• Transformers & Self Attention	
+• BERT / GPT Basics	
+• GANs (Generative Adversarial Networks)	
+• Object Detection (YOLO, SSD)	
+• Autoencoders	
+• Deployment (Flask + Web or Streamlit)	
+• Vector DBs (Pinecone, FAISS)
